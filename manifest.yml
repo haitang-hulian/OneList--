@@ -1,4 +1,5 @@
 ---
 applications:
-- name: ruyo
+- name: aslan
+memory: 256MB
 command: python app.py
